@@ -19,7 +19,7 @@ Empower your projects with modern tools and libraries. Fast, beautiful, and comp
 
 2. Install dependencies:
    ```
-   npm install
+   npm install --force
    ```
 
 3. Run the development server:
