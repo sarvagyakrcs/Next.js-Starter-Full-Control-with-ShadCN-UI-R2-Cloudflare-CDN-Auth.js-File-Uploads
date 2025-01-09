@@ -1,6 +1,7 @@
 # Next.js Starter: Full Control
 
 Empower your projects with modern tools and libraries. Fast, beautiful, and completely essential.
+<a href="https://thesarvagyakumar.site">My Website</a>
 
 ## Features
 
